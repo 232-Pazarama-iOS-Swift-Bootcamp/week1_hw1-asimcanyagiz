@@ -10,6 +10,9 @@
 		ABB3052A28DE544800CE0E54 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABB3052928DE544800CE0E54 /* main.swift */; };
 		ABB3053228DE55E300CE0E54 /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABB3053128DE55E300CE0E54 /* Functions.swift */; };
 		ABB3053428DE55EF00CE0E54 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABB3053328DE55EF00CE0E54 /* User.swift */; };
+		ABB3053E28E0C32B00CE0E54 /* Products.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABB3053D28E0C32B00CE0E54 /* Products.swift */; };
+		ABB3054028E0C33F00CE0E54 /* Items.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABB3053F28E0C33F00CE0E54 /* Items.swift */; };
+		ABB3054228E0C35600CE0E54 /* Enemies.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABB3054128E0C35500CE0E54 /* Enemies.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +32,9 @@
 		ABB3052928DE544800CE0E54 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		ABB3053128DE55E300CE0E54 /* Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
 		ABB3053328DE55EF00CE0E54 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		ABB3053D28E0C32B00CE0E54 /* Products.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Products.swift; sourceTree = "<group>"; };
+		ABB3053F28E0C33F00CE0E54 /* Items.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Items.swift; sourceTree = "<group>"; };
+		ABB3054128E0C35500CE0E54 /* Enemies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enemies.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +86,9 @@
 			isa = PBXGroup;
 			children = (
 				ABB3053328DE55EF00CE0E54 /* User.swift */,
+				ABB3053D28E0C32B00CE0E54 /* Products.swift */,
+				ABB3053F28E0C33F00CE0E54 /* Items.swift */,
+				ABB3054128E0C35500CE0E54 /* Enemies.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -143,7 +152,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				ABB3052A28DE544800CE0E54 /* main.swift in Sources */,
+				ABB3054028E0C33F00CE0E54 /* Items.swift in Sources */,
+				ABB3053E28E0C32B00CE0E54 /* Products.swift in Sources */,
 				ABB3053228DE55E300CE0E54 /* Functions.swift in Sources */,
+				ABB3054228E0C35600CE0E54 /* Enemies.swift in Sources */,
 				ABB3053428DE55EF00CE0E54 /* User.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
