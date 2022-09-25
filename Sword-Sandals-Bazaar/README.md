@@ -67,7 +67,7 @@ You can [download](https://github.com/232-Pazarama-iOS-Swift-Bootcamp/week1_hw1-
 
 ## Credits
 
-Furkan Sabaz - Udemy Swift Course
+Patika.dev - iOS Swift Pazarama Bootcamp
 
 ## You may also like...
 
